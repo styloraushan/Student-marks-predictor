@@ -37,6 +37,14 @@ To use the Student Mark Predictor:
 ## Contributors
 
 - [Raushan kumar](https://github.com/styloraushan)
+
+  # Acknowledgements
+
+- [NumPy](https://numpy.org/doc/stable/) 
+- [Pandas](https://pandas.pydata.org/docs/)
+- [scikit-learn](https://scikit-learn.org/stable/documentation.html)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Dataset Source]([link](https://www.kaggle.com/datasets/himanshunakrani/student-study-hours)
   
 ## License
 
